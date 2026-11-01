@@ -15,7 +15,7 @@ export const hero = {
   description:
     'Предлагаем посетить мир, полный мутантов, людоедов, насильников, и полной антисанитарии.',
   actions: [
-    { label: 'Купить Fallout', page: 'portfolio', variant: 'primary' },
+    { label: 'Купить Fallout', page: 'services', variant: 'primary' },
     { label: 'Не тыкать', page: 'calculator', variant: 'outline' },
   ],
   visual: '/Hi.jpg',
